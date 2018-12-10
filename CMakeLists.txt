@@ -18,3 +18,5 @@ add_executable(1.8_hwk
 add_executable(1.12_hwk
         ch01/1.12_hwk.cpp)
 add_executable(add c++_primer_5th/1/add.cc)
+add_executable(2.1_hwk ch02/2.1_2.2_hwk.cpp)
+add_executable(2.3_hwk ch02/2.3_hwk.cpp)
