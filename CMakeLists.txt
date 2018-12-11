@@ -20,3 +20,6 @@ add_executable(1.12_hwk
 add_executable(add c++_primer_5th/1/add.cc)
 add_executable(2.1_hwk ch02/2.1_2.2_hwk.cpp)
 add_executable(2.3_hwk ch02/2.3_hwk.cpp)
+add_executable(2.9 ch02/2.9.cpp)
+add_executable(2.10 ch02/2.10.cpp)
+add_executable(2.11 ch02/2.11.cpp)
